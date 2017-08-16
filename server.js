@@ -9,7 +9,7 @@ function mail() {
         service: 'gmail',
         auth: {
             user: 'sastabazaar13@gmail.com',
-            pass: 'mathematics@1298'
+            pass: '***********'
         }
     });
 
